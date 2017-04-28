@@ -2,7 +2,7 @@
 
 Sample MEAN application with authentication using JWT Tokens. 
 
-# Installation
+# Usage
 
 git clone https://github.com/exxmen/samplemeanapp.git
 
